@@ -1,6 +1,6 @@
 # รวมโค้ดลับ Windows จอฟ้า พร้อมวิธีแก้ไข
 
-(https://raw.githubusercontent.com/udoncyber/Windows10/main/blue-screen.png)
+![Alternate image text](https://raw.githubusercontent.com/udoncyber/Windows10/main/blue-screen.png)
 
 ###### 1. 0x0000000A : IRQL_NOT_LESS_OR_EQUAL 
 
